@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "217282933472",
+    "project_id": "login-2e7b2",
+    "storage_bucket": "login-2e7b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217282933472:android:990a3742f2994f4e059685",
+        "android_client_info": {
+          "package_name": "com.example.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217282933472-nvuhh7poqijusbetpjp9n1n5vcsnqa86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvsKCtECY6jSTk2HgWeoKC12IyZPL4j20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217282933472-nvuhh7poqijusbetpjp9n1n5vcsnqa86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217282933472:android:eaa13ae36cb07d4d059685",
+        "android_client_info": {
+          "package_name": "edu.poly.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217282933472-nvuhh7poqijusbetpjp9n1n5vcsnqa86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvsKCtECY6jSTk2HgWeoKC12IyZPL4j20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217282933472-nvuhh7poqijusbetpjp9n1n5vcsnqa86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
